@@ -1,6 +1,6 @@
-**Test task for "Autodoc" company**
+**Test task for "AppSelect" company**
 
-**Github API Viewer**
+**Movies List**
 
 **Technology stack**
 
@@ -8,7 +8,9 @@
 
     Architecture pattern - MVVM
 
-    Retrofit   
+    SplashScreen API
+
+    Paging Library
 
     RecyclerView
 
@@ -16,10 +18,12 @@
 
     Coroutines
 
-    Paging Library
+    Retrofit 
 
     Glide
 
     Hilt
+
+    Flow
     
 
