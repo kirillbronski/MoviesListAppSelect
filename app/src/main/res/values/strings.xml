@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MoviesListAppSelect</string>
+    <string name="app_name">Movies List \"AppSelected\"</string>
+    <string name="error_swipe_to_update">Error. Swipe to update</string>
 </resources>
