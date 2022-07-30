@@ -5,25 +5,15 @@
 **Technology stack**
 
     Language - Kotlin
-
     Architecture pattern - MVVM
-
     SplashScreen API
-
     Paging Library
-
     RecyclerView
-
     View Binding
-
     Coroutines
-
-    Retrofit 
-
+    Retrofit
     Glide
-
     Hilt
-
     Flow
     
 
